@@ -1,0 +1,29 @@
+/* Block*/
+.btn{
+    text-decoration: none;
+    background-color: pink;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.box{
+    text-decoration: none;
+    background-color: rgb(17, 238, 17);
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.b{
+    text-decoration: none;
+    background-color: rgb(7, 155, 214);
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.a{
+    text-decoration: none;
+    background-color: rgb(247, 43, 8);
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
